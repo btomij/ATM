@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ATM</string>
+    <string name="text_userID">UserID</string>
+    <string name="text_pass">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_cancel">Cancel</string>
+
+    <string name="msg_login_success">Login Success</string>
+    <string name="msg_login_failed">Login Failed</string>
+</resources>
